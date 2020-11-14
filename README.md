@@ -70,7 +70,7 @@ This app allows people to all vote on a list of options as well as keep track of
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="https://drive.google.com/file/d/1HqKUjfIbli5RqDkeCOhUZS8lj_9u0tju/view?usp=sharing" width=600>
+<img src="wireframe.png" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
